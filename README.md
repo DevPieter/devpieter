@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I’m DevPieter</h1>
 <h3 align="center">A programmer from the Netherlands.</h3>
 
-- 🌱 I’m currently learning **Discord.NET**
-
-- 👨‍💻 All of my open-source projects are available at [github.com/devpieter](https://github.com/DevPieter/)
-
-- ⬇ Downloads available at [devpieter.nl/downloads](https://devpieter.nl/downloads/)
+- 🌱 I’m currently learning **[Discord.NET](https://discordnet.dev/)**
 
 - 💬 Ask me about **Modding Minecraft 🐞**
+
+- 👨‍💻 All of my open-source projects are available at [github.com/devpieter](https://github.com/DevPieter/)
 
 - 📫 How to reach me [devpieter.nl/contact](https://devpieter.nl/contact/)
 
 - 📄 Know about my experiences [devpieter.nl](https://devpieter.nl/)
+
+- ⬇ Downloads available at [devpieter.nl/downloads](https://devpieter.nl/downloads/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
