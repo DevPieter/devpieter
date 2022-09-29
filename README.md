@@ -28,6 +28,4 @@
 <br>
 <a href="https://ko-fi.com/devpieter"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devpieter" /></a><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpieter&show_icons=true&locale=en&layout=compact" alt="devpieter" /><br>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=devpieter&show_icons=true&locale=en" alt="devpieter" />
