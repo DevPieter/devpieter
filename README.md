@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m DevPieter</h1>
 <h3 align="center">A programmer from the Netherlands.</h3>
 
-- 🌱 I’m currently learning **[PHP](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)**
+- 🌱 I’m currently learning **[PHP](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)** / **[Laravel](https://laravel.com/)**
 
 - 💬 Ask me about **Modding Minecraft 🐞**
 
