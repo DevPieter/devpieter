@@ -47,16 +47,16 @@
 ###
 
 <div align="left">
-  <a href="https://tree.pietr.space/" target="_blank">
+  <a href="https://pietr.dev/tree" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
-  <a href="https://www.youtube.com/devpieter" target="_blank">
+  <a href="https://pietr.dev/youtube" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://stackoverflow.com/users/17427135/dev-pieter" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://ko-fi.com/devpieter" target="_blank">
+  <a href="https://pietr.dev/donate" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
 </div>
