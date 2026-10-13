@@ -73,5 +73,5 @@
 
 <div align="right">
   <a href="https://pietr.dev/waka" title="Total time coded since Sep 12 2024"><img src="https://wakatime.com/badge/user/8c0f6161-78b5-4d14-a4f9-d7682e5a2474.svg" alt="Total time coded since Sep 12 2024" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevPieter.DevPieter"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevPieter.DevPieter&format=true&logo=github"  />
 </div>
